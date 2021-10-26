@@ -7,9 +7,6 @@
   I'm a 🇧🇷 brazilian software engineering student at <strong>UCSAL (Universidade Católica do Salvador)</strong>. Currently, I'm working on my personal projects and seeking knowledge, especially about the enterprise world and, of course, growing up my abilities as a coder. Actually, I'd consider myself an intermediary programmer focused on web and familiar with: 
 <strong>C#, JavaScript and TypeScript.</strong> 🎈
 
-
-
-
 <p align="center">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="GitHub Actions">
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Red on readthedocs.org">
@@ -20,5 +17,5 @@
 
 
 ![Gesant's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=sato-company)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
