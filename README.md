@@ -18,4 +18,4 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Localized with Crowdin">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sato-company&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3gadrive&show_icons=true&theme=radical)
