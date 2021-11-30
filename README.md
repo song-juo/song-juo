@@ -6,9 +6,11 @@
 <img align="center" height=350 width=350 src="https://64.media.tumblr.com/8da67f7ce817967d1c266df499cb3284/tumblr_n9fguofG161s4fz4bo1_500.gif"></img>
 <h1>Hey there</h1>
 </div>
-  
+
+<p align="center">
   I'm a 🇧🇷 brazilian software engineer student at <strong>UCSAL (Universidade Católica do Salvador)</strong>. Currently, I'm working on my personal projects and seeking knowledge, especially about the enterprise world and, of course, growing up my abilities as a coder. Actually, I'd consider myself an intermediary programmer focused on web and familiar with: 
 <strong>C#, JavaScript and TypeScript.</strong> 🎈
+  </p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="GitHub Actions">
