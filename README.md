@@ -11,7 +11,7 @@
   I'm a 🇧🇷 brazilian software engineer student at <strong>UCSAL (Universidade Católica do Salvador)</strong>. Currently, I'm working on my personal projects and seeking knowledge, especially about the enterprise world and, of course, growing up my abilities as a coder. Actually, I'd consider myself an intermediary programmer focused on web and familiar with: 
 <strong>C#, JavaScript and TypeScript.</strong> 🎈</p>
 
-Profile pic by: <a href="https://github.com/gaesant"> Coy </a>
+Profile pic by: <a href="https://www.deviantart.com/c0y0t3br/gallery"> Coy </a>
 
 <p align="center">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="GitHub Actions">
