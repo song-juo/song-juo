@@ -17,12 +17,3 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github) ![Markdown](https://img.shields.io/badge/-Unix%20Systems-333333?style=flat-square&logo=linux)
 
 - 🔧 &nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC) ![Jetbrains Tools](https://img.shields.io/badge/-Jetbrains%20Tools-333333?style=flat-square&logo=jetbrains)
-
-<br/>
-
-<a href="https://github.com/myur4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myur4&theme=jolly&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myur4&theme=jolly&layout=compact" />
-</a>
-
-<br/>
