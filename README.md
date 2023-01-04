@@ -6,6 +6,7 @@
 - 🎓 &nbsp; Studying <b>Computer Engineering</b> at  <b>Universidade Ruy Barbosa</b>
 - 🌱 &nbsp; Experienced with web development using GoLang and TypeScript
 - ❤️ &nbsp; Creating libraries and utilities during my free time
+- 🐧 &nbsp; Current distro: **NixOS** ❄️
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
