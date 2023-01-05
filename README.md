@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying <b>Computer Engineering</b> at  <b>Universidade Ruy Barbosa</b>
-- 🌱 &nbsp; Experienced with web development using GoLang and TypeScript
+- 🌱 &nbsp; Experienced with web development using GoLang, C# (dotnet) and TypeScript
 - ❤️ &nbsp; Creating libraries and utilities during my free time
 - 🐧 &nbsp; Current distro: **NixOS** ❄️
 
