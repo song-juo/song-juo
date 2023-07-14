@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studying <b>Software Engineering</b> (3/8) @  <b>Universidade Católica do Salvador</b>
 - 🌱 &nbsp; Experienced with web development using GoLang, C# (dotnet) and TypeScript
 - ❤️ &nbsp; Creating libraries and utilities during my free time
-- 🐧 &nbsp; Current distro: **Artix Linux**
+- 🐧 &nbsp; Current distro: **NixOS Linux**
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
