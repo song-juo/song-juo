@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying <b>Software Engineering</b> (3/8) @  <b>Universidade Católica do Salvador</b>
-- 🌱 &nbsp; Experienced with web development using GoLang, C# (dotnet) and TypeScript
+- 🌱 &nbsp; Experienced with web development using various programming languages
 - ❤️ &nbsp; Creating libraries and utilities during my free time
 - 🐧 &nbsp; Current distro: **Manjaro Linux**
 
